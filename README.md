@@ -25,6 +25,6 @@ Este repositório contém os documentos referentes à construção dos requisito
 
 - Mapa Conceitual.pdf: arquivo contendo o modelo de mapa conceitual
 
-- Questionário de Elicitação (respostas).xlsx: arquivo contendo as respostas do questionário
+- Questionário de Elicitação (respostas).pdf: arquivo contendo as respostas do questionário
 
 - bpmn.pdf: arquivo contendo o modelo bpmn
